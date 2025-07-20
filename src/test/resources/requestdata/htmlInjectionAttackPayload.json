@@ -1,0 +1,4 @@
+{
+    "name": "<script>alert('xss')</script>",
+    "job": "<script>alert('xss')</script>"
+}
